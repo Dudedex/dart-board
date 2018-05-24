@@ -1,4 +1,4 @@
-#Dart score board
+# Dart score board
 
 An old interactive dart score board which can be handled via voice control
 
