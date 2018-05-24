@@ -1,0 +1,13 @@
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\DartScoreboard.Properties.Resources.resources
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dart Scoreboard.csproj.GenerateResource.Cache
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dart Scoreboard.csproj.CoreCompileInputs.cache
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dart Scoreboard.exe
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dart Scoreboard.pdb
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\bin\Debug\Dart Scoreboard.exe.config
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\bin\Debug\Dart Scoreboard.exe.manifest
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\bin\Debug\Dart Scoreboard.application
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\bin\Debug\Dart Scoreboard.exe
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\bin\Debug\Dart Scoreboard.pdb
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dart Scoreboard.exe.manifest
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dart Scoreboard.application
+C:\Users\Richy Henle\Desktop\Dart Scoreboard\windowsformsapplication7\WindowsFormsApplication7\obj\Debug\Dartboard.Form1.resources

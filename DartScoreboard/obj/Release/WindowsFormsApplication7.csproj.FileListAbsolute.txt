@@ -1,0 +1,14 @@
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form1.resources
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.manifest
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.application
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe.manifest
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.application
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.CodeAnalysisLog.xml
+C:\Users\Richy\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.lastcodeanalysissucceeded
